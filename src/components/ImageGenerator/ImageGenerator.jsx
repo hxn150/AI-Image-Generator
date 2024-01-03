@@ -2,6 +2,7 @@ import React, { useRef, useState } from "react";
 import "./ImageGenerator.css";
 import default_img from "../assets/default_img.jpg";
 
+
 const ImageGenerator = () => {
   const [image_url, setImage_url] = useState("/");
   let inputRef = useRef(null);
@@ -18,7 +19,7 @@ const ImageGenerator = () => {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
-          Authorization: "Bearer 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",
+          Authorization: `Bearer ${process.env.REACT_APP_OPENAI_API_KEY}`,
           "User-Agent": "Chrome",
         },
         body:JSON.stringify({
