@@ -5,7 +5,9 @@ Welcome to the Image Generator Bot, your one-stop shop for generating funky and 
 Some of our favorite creations so far include:
 
 An astronaut riding a horse on Mars
+
 Cats in Top Hats having a tea party
+
 Fruit arranging itself into robots
 
 The possibilities are endless! Let your imagination run wild and see what delightful images our app can generate. Have fun dreaming up wacky new ideas or recreate iconic art and photos - the choice is yours!
