@@ -1,4 +1,4 @@
-Image Generator Bot 🖼️
+# Image Generator Bot 🖼️
 
 Welcome to the Image Generator Bot, your one-stop shop for generating funky and fantastic images with the power of AI and the utilization of Dall-E 2!
 
